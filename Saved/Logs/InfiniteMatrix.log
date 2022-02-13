@@ -10005,3 +10005,11 @@ Make sure 'Prejectile_C' has been compiled for  Get ForwardSpeed
 [2022.02.13-05.23.30:988][208]LogPlayLevel: Display: Destroying online subsystem :Context_108
 [2022.02.13-05.23.40:744][154]BlueprintLog: New page: Compile Prejectile
 [2022.02.13-05.23.40:806][154]LogUObjectHash: Compacting FUObjectHashTables data took   3.01ms
+[2022.02.13-05.24.39:176][717]LogUObjectHash: Compacting FUObjectHashTables data took   3.59ms
+[2022.02.13-05.24.39:206][717]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/InfiniteMatrix/Blueprints/BP_Player" FILE="../../../../../../Users/jling6/Desktop/CS498GD_MP1/Content/InfiniteMatrix/Blueprints/BP_Player.uasset" SILENT=true
+[2022.02.13-05.24.39:255][717]LogSavePackage: Moving '../../../../../../Users/jling6/Desktop/CS498GD_MP1/Saved/BP_Player6AD0D5E54894C5BDCA98D69247CC250F.tmp' to '../../../../../../Users/jling6/Desktop/CS498GD_MP1/Content/InfiniteMatrix/Blueprints/BP_Player.uasset'
+[2022.02.13-05.24.39:265][717]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/InfiniteMatrix/Blueprints/Prejectile" FILE="../../../../../../Users/jling6/Desktop/CS498GD_MP1/Content/InfiniteMatrix/Blueprints/Prejectile.uasset" SILENT=true
+[2022.02.13-05.24.39:282][717]LogSavePackage: Moving '../../../../../../Users/jling6/Desktop/CS498GD_MP1/Saved/Prejectile436AC5324CB7ABDAF953BC87E1A71722.tmp' to '../../../../../../Users/jling6/Desktop/CS498GD_MP1/Content/InfiniteMatrix/Blueprints/Prejectile.uasset'
+[2022.02.13-05.24.39:299][717]AssetCheck: New page: Asset Save: multiple assets
+[2022.02.13-05.24.39:299][717]LogContentValidation: Display: Validating Blueprint /Game/InfiniteMatrix/Blueprints/BP_Player.BP_Player
+[2022.02.13-05.24.39:299][717]LogContentValidation: Display: Validating Blueprint /Game/InfiniteMatrix/Blueprints/Prejectile.Prejectile
